@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust and Haskell programming as well as Block chain development
 - 🌱 I’m currently learning Scrypto and Web Assembly
 - 💞️ I’m looking to collaborate on Radix Development
-- 📫 How to reach me ...
+- 📫 How to reach me serge#7968 on Discord
 
 <!---
 serge2708/serge2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
